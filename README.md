@@ -54,9 +54,7 @@ source /etc/profile
 
 ### 感谢原作者
 
-https://gitee.com/wapai/projects 感谢作者提供的代码。
-
-
+https://gitee.com/wapai/chuantou 感谢作者提供的代码。
 
 
 
